@@ -28,16 +28,20 @@ Security Life Plan
 -	C++(?) 
 	- For Object Oriented Only
 	- [Project][8]
+	
 Advanced Security Topics
---
+---
+
 -	Working with Data on the Internet
 	- JSON
 - Capture the Flag Tournaments
     - Find (or create a team)
     - [PicoCTF][5]
 - Hackathons
-    - If you have too much free time...
+	- If you have too much free time...
+
 ---
+
 IT Life Plan
 ---
 
