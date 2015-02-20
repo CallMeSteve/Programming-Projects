@@ -5,7 +5,7 @@ Security Life Plan
 --
 
 -	Linux (Ubuntu) CLI familiarity - Bash
--	    - [GitHub Repo for useful commands][3]
+	- [GitHub Repo for useful commands][3]
 -	Web development 
 	- HTML
 	- CSS
