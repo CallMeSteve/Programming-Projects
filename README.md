@@ -9,8 +9,9 @@ Security Life Plan
 -	Web development 
 	- HTML
 	- CSS
+	- PHP
 	- JavaScript
-		- Node.js
+		- Node.js (Optional)
 		- Google App Script (for fun)
 	- [Projects][6]
 - 	Python Projects 
