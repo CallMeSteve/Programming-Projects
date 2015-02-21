@@ -56,7 +56,6 @@ IT Life Plan
 	- TCP/IP Fundamentals
 
 - Windows
-	- Win Server 2012 Active Directory
 	- [PowerShell][4]
 	- [PowerShell][4]
 	- [PowerShell][4]
