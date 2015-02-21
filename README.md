@@ -15,7 +15,7 @@ Security Life Plan
 		- Google App Script (for fun)
 	- [Projects][6]
 - 	Python Projects
-	- 	[GitHub Repo for sample projects][2]
+	- 	[Projects][2]
 -	Web server stuff ([Follow DigitalOcean's great blog][1]) 
 	-	LAMP/WAMP stack
 	-	SSH
