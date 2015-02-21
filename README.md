@@ -32,8 +32,9 @@ Security Life Plan
 	
 Advanced Security Topics
 ---
-
--	Working with Data on the Internet
+- NYU's Hack-Night
+	- [GitRepo][9] 
+- Working with Data on the Internet
 	- JSON
 - Capture the Flag Tournaments
     - Find (or create a team)
@@ -47,8 +48,7 @@ IT Life Plan
 ---
 
 -	DevOps
-	- Chef
-	- Ansible (free)
+	- Chef (free)
 
 -	Networking 
 	- RSAT Product Suite
@@ -62,7 +62,7 @@ IT Life Plan
 	- [PowerShell][4]
 
 - Linux
-	- RedHat
+	- RedHat (a basic understanding is okay for most Sys Admin positions)
 
 [1]:https://www.digitalocean.com/community/tutorials
 [2]:https://github.com/callmesteve/Programming-Projects
@@ -72,3 +72,4 @@ IT Life Plan
 [6]:https://github.com/callmesteve/Programming-Projects
 [7]:https://github.com/callmesteve/Programming-Projects
 [8]:https://github.com/callmesteve/Programming-Projects
+[9]:https://github.com/isislab/Hack-Night
